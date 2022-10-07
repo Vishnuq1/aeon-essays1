@@ -1,0 +1,170 @@
+ .top-heading{
+    display:flex;
+   justify-content: space-evenly;
+   background-color: rgb(37, 49, 109);
+   color: aliceblue;
+   font-size: 16px;
+
+   
+
+    
+   
+} 
+
+
+.support-Aeon{
+    /* background-color: rgb(184, 23, 149);
+    display:flex; */
+    align-items: stretch;
+    margin-left: 50px;
+    margin-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+.support2{
+    /* background-color: bisque; */
+    margin-right: 50px;
+    margin-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+} 
+.donate{
+    /* if I am adding margin or padding is extending whole top heading area but no effect on button  */
+    /* padding-top: 200px;
+    padding-left: 100px; */
+    /* background-color: aqua; */
+    /* width: 100px;
+    height: 200px; */
+    /* color: aqua; */
+    /* margin-top: 150px; */
+    /* background-color: rgb(255, 135, 178); */}
+    
+.second_line{
+    /* background-color: aqua; */
+    display:flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration:none;
+}
+
+.socialmedia{
+    padding-left:10px;
+    /* justify-content: left; */
+}
+/* .facebook{
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.facebook:hover {
+        opacity: 0.5;
+} */
+.headerquicklinks{
+    display:flex;
+    /* justify-content: flex-end;  */
+    /* text-align:right ; */
+}
+.headermain{
+
+    text-align: center;
+}
+.mid-section{
+    display: flex;
+    justify-content: center;
+   
+}
+.mid-section-start{
+display: flex;
+justify-content: center;
+
+    text-decoration: none;
+}
+.midsectionpre{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+
+.midsection1{
+    display:flex;
+      /* width: 90%;  */
+    justify-content: space-evenly;
+    /* background-color: blue; */
+
+}
+.description-midsection1{
+    display:flex;
+    text-align: center;
+    
+    
+}
+
+.midsection2{
+    display:flex;
+      /* width: 90%;  */
+    justify-content: space-evenly;
+    /* background-color: blue; */
+
+}
+.description-midsection2{
+    display:flex;
+    text-align: center;
+}
+.midsection3{
+    display:flex;
+      /* width: 90%;  */
+    justify-content: space-evenly;
+    /* background-color: blue; */
+
+}
+.description-section3{
+    display:flex;
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+.midsection4{
+    display:flex;
+      /* width: 90%;  */
+    justify-content: space-evenly;
+    /* background-color: blue; */
+
+}
+.description-section4{
+    display:flex;
+    text-align: center;
+}
+/* .description4-1{
+    background-color:aqua;
+} */
+.more-tab{
+     display:flex;
+   justify-content: center;
+   /* padding-right:25px;
+   padding-left:25px; */
+   /* margin-right: 20px;
+   margin-left: 20px; */
+   /* padding: 15px 32px; */
+   font-size: 16px;
+     /* background-color: aqua;  */
+}
+.end-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(204, 202, 203);
+ 
+   padding-top: 40px;
+   padding-bottom: 100px;
+}
+
+.end-section4{
+    justify-content: space-between;
+}
+
+  
